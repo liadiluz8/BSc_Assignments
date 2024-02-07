@@ -25,7 +25,4 @@ This repository contains a collection of assignments completed as part of my BSc
     Assignment 4: Covered SVM theory and introduced deep learning concepts.
     
 # Usage
-You can explore each assignment by navigating to the corresponding directory. Each assignment contains its own set of instructions and the code or documents necessary to complete it.
-
-# Contributions
-Contributions to this project are not currently being accepted as these assignments are for archival and personal reference purposes only.
+You can explore each assignment by navigating to the corresponding directory. Each assignment contains its own set of instructions and the code or documents necessary.
